@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-yxfe",
+  "version": "1.0.43",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-plugin-html": "^3.2.1",
+    "eslint-plugin-vue": "^3.13.0"
+  }
+}
